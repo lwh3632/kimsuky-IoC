@@ -237,3 +237,4 @@ filename,sha256,tags,Report_link
 "start.ps1","7ea5fd52e7769fec92c4cf71e1aebbb00d1ae0dcbeb871acab2790e806d85f85","APT43,Kimsuky,ps1","https://bazaar.abuse.ch/sample/7ea5fd52e7769fec92c4cf71e1aebbb00d1ae0dcbeb871acab2790e806d85f85/"
 "force.ps1","0f68cd9cce3d9aa5f4a840430ddf629f32297dbc9874fd5c3c3e53f2eab6488f","APT43,Kimsuky,ps1","https://bazaar.abuse.ch/sample/0f68cd9cce3d9aa5f4a840430ddf629f32297dbc9874fd5c3c3e53f2eab6488f/"
 "SecurityHealthSystray.exe","3af5c9759d95fd6091e665c03406f275fac26afe70db067a785cdc003389efbd","apt,exe,KimaLogger,Kimsuky","https://bazaar.abuse.ch/sample/3af5c9759d95fd6091e665c03406f275fac26afe70db067a785cdc003389efbd/"
+"6544f0416e12d5876861349e1e66f4c97d72da4fb029baeebb00ab99608dfba7","6544f0416e12d5876861349e1e66f4c97d72da4fb029baeebb00ab99608dfba7","DPRK,Kimsuky,ps1","https://bazaar.abuse.ch/sample/6544f0416e12d5876861349e1e66f4c97d72da4fb029baeebb00ab99608dfba7/"
