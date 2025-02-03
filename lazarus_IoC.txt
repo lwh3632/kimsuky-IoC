@@ -236,3 +236,5 @@ filename,sha256,tags,Report_link
 "02ed6568159de27622ff4e378089ee54f90c1d04f24eae7eb9790749cc38b9ff","02ed6568159de27622ff4e378089ee54f90c1d04f24eae7eb9790749cc38b9ff","Lazarus","https://bazaar.abuse.ch/sample/02ed6568159de27622ff4e378089ee54f90c1d04f24eae7eb9790749cc38b9ff/"
 "11","ab754242fe28fa282a9169e47c3e12752fa444c22945cd220c657bcab561b983","apt,js,Lazarus","https://bazaar.abuse.ch/sample/ab754242fe28fa282a9169e47c3e12752fa444c22945cd220c657bcab561b983/"
 "payload.js","d62614d8c7f2eb68202d0d73a84e621008cfbe8d7e652952ad26206620aea76d","apt,js,Lazarus","https://bazaar.abuse.ch/sample/d62614d8c7f2eb68202d0d73a84e621008cfbe8d7e652952ad26206620aea76d/"
+"iconcache.tmp.pif","d0a41dfe8f5b5c8ba6a5d0bdc3754543210ec2d36290564d9a774e9d22e3ad97","apt,exe,Lazarus","https://bazaar.abuse.ch/sample/d0a41dfe8f5b5c8ba6a5d0bdc3754543210ec2d36290564d9a774e9d22e3ad97/"
+"CameraAccess","3c4becde20e618efb209f97581e9ab6bf00cbd63f51f4ebd5677e352c57e992a","Lazarus,machO","https://bazaar.abuse.ch/sample/3c4becde20e618efb209f97581e9ab6bf00cbd63f51f4ebd5677e352c57e992a/"
