@@ -249,3 +249,7 @@ filename,sha256,tags,Report_link
 "cjfansgmlans1-x.ps1","db6315274dc31bea8f42c79ea8928a4be2a5dd996c3e7a702f6a2bac5c463fee","Kimsuky,ps1,cjfansgmlans,apt","https://bazaar.abuse.ch/sample/db6315274dc31bea8f42c79ea8928a4be2a5dd996c3e7a702f6a2bac5c463fee/"
 "cjfansgmlans1-f.ps1","fe84a4a119917f15418659ed30699d873b6445aa053d9303287b085e35bf1002","Kimsuky,ps1,cjfansgmlans,apt","https://bazaar.abuse.ch/sample/fe84a4a119917f15418659ed30699d873b6445aa053d9303287b085e35bf1002/"
 "241002-2024년 ga영업본부 담당지점 배분(10월) v2.zip","8d6dc026812420c5ef4b4fe72fb7067da14196fea45b6e99a594126246ac41fc","Kimsuky,zip","https://bazaar.abuse.ch/sample/8d6dc026812420c5ef4b4fe72fb7067da14196fea45b6e99a594126246ac41fc/"
+"종신안내장v02_곽성환d.zip","079907b7feab3673a1767dbfbc0626e656f5d3b03b6cff471cc7cf8a1973ab34","Kimsuky,zip","https://bazaar.abuse.ch/sample/079907b7feab3673a1767dbfbc0626e656f5d3b03b6cff471cc7cf8a1973ab34/"
+"ctaoms-f.txt","119f9a871897926ef7f18252ab4e086b705df3fe9b7412e317a39a893d667d83","Kimsuky,ps1","https://bazaar.abuse.ch/sample/119f9a871897926ef7f18252ab4e086b705df3fe9b7412e317a39a893d667d83/"
+"zzJG.zip","89c4f041ca42b26bfd6279d99e374085227b3eb379cf2168684e594732a2c5b7","74-50-94-175,DropBox,Kimsuky,zip","https://bazaar.abuse.ch/sample/89c4f041ca42b26bfd6279d99e374085227b3eb379cf2168684e594732a2c5b7/"
+"83972.js","4751a4f6ede387128f4438b852c7a722407f5118703e8cf0cc7c7293920769f4","	74-50-94-175,DropBox,js,Kimsuky","https://bazaar.abuse.ch/sample/4751a4f6ede387128f4438b852c7a722407f5118703e8cf0cc7c7293920769f4/"
