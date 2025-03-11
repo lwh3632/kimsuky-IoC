@@ -267,3 +267,4 @@ filename,sha256,tags,Report_link
 "이해환_system1021@네이버.zip","2ab2ded68ea02df61c1a67d1ea67144eec247641b83ef109c094b103a0256945","Kimsuky,zip","https://bazaar.abuse.ch/sample/2ab2ded68ea02df61c1a67d1ea67144eec247641b83ef109c094b103a0256945/"
 "system1021-f.txt","bbe859750b2488eba04ae47489efe236d48e9e76f1510c9699837a83fabaf51c","Kimsuky,ps1","https://bazaar.abuse.ch/sample/bbe859750b2488eba04ae47489efe236d48e9e76f1510c9699837a83fabaf51c/"
 "WmiMgmt.msc","cc91ede2b25640c1fb7174deeea861dd2cb400b717d7a8f674dd59c678941ac5","apt,Kimsuky,MSC","https://bazaar.abuse.ch/sample/cc91ede2b25640c1fb7174deeea861dd2cb400b717d7a8f674dd59c678941ac5/"
+"cnmpaui.zip","a5049e7e39982eeee015610a060ee2d3fc4db16eef883e16e7fa99ffec661baa","adanielectricitycrsoc-com,apt,Kimsuky,zip","https://bazaar.abuse.ch/sample/a5049e7e39982eeee015610a060ee2d3fc4db16eef883e16e7fa99ffec661baa/"
