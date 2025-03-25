@@ -269,3 +269,4 @@ filename,sha256,tags,Report_link
 "WmiMgmt.msc","cc91ede2b25640c1fb7174deeea861dd2cb400b717d7a8f674dd59c678941ac5","apt,Kimsuky,MSC","https://bazaar.abuse.ch/sample/cc91ede2b25640c1fb7174deeea861dd2cb400b717d7a8f674dd59c678941ac5/"
 "cnmpaui.zip","a5049e7e39982eeee015610a060ee2d3fc4db16eef883e16e7fa99ffec661baa","adanielectricitycrsoc-com,apt,Kimsuky,zip","https://bazaar.abuse.ch/sample/a5049e7e39982eeee015610a060ee2d3fc4db16eef883e16e7fa99ffec661baa/"
 "a6598bbdc947286c84f951289d14425c.html","5f23b1ca43f6a18e3c9f21d390f5d1e187b1339b07a1dce70f8338f3be320878","apt,html,Kimsuky","https://bazaar.abuse.ch/sample/5f23b1ca43f6a18e3c9f21d390f5d1e187b1339b07a1dce70f8338f3be320878/"
+"chaotic_capybara","469fd8a280e89a6edd0d704d0be4c7e0e0d8d753e314e9ce205d7006b573865f","ContagiousInterview,DevPopper,Kimsuky,machO,VelvetChollima","https://bazaar.abuse.ch/sample/469fd8a280e89a6edd0d704d0be4c7e0e0d8d753e314e9ce205d7006b573865f/"
